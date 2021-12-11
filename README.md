@@ -18,3 +18,5 @@
 <strong>0. test 작업 설정하기</strong>
   - git clone git@github.com:3billion/web-developer-test.git
   - yarn  # 패키지 설치하기
+
+https://github.com/3billion/web-developer-test
